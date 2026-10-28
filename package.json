@@ -1,4 +1,5 @@
 {
   "name": "proxer-to-mal-export",
-  "packageManager": "yarn@4.18.1"
+  "packageManager": "yarn@4.18.1",
+  "main": "./src/index.js"
 }
